@@ -78,16 +78,13 @@ This project demonstrates how to deploy a sample application (2048 Game) on an A
 
 ---
 
-## 📸 Screenshots (Optional)
-
 | Resource | Screenshot |
 |:---------|:------------|
-| EKS Cluster Created | ![EKS Cluster](![image](https://github.com/user-attachments/assets/6fc905e9-bcbc-4c00-84eb-8b67bdf04c43)) |
-| Fargate Profile Created | ![Fargate Profile](![image](https://github.com/user-attachments/assets/8f1d5b4a-92c2-488e-93c7-3449ffb98d42)) |
-| Load Balancer Created | ![Load Balancer](![image](https://github.com/user-attachments/assets/05f6235b-687d-4cee-8969-691e91e8728b)) |
-| 2048 Game Running | ![App Screenshot](![image](https://github.com/user-attachments/assets/a445cb66-07b0-488b-8794-e4d670719bd8)) |
+| EKS Cluster Created | ![EKS Cluster](https://github.com/user-attachments/assets/6fc905e9-bcbc-4c00-84eb-8b67bdf04c43) |
+| Fargate Profile Created | ![Fargate Profile](https://github.com/user-attachments/assets/8f1d5b4a-92c2-488e-93c7-3449ffb98d42) |
+| Load Balancer Created | ![Load Balancer](https://github.com/user-attachments/assets/05f6235b-687d-4cee-8969-691e91e8728b) |
+| 2048 Game Running | ![App Screenshot](https://github.com/user-attachments/assets/a445cb66-07b0-488b-8794-e4d670719bd8) |
 
----
 
 ## 🧹 How to Destroy Everything
 
